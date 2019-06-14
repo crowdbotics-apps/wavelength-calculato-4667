@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT wavelength_calculato_4667.wsgi:application
